@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: maven-search
+  shell:
+    interactive:
+      enabled: true
+  main:
+    banner-mode: console
+logging:
+  level:
+    root: off
