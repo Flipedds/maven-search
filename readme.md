@@ -59,7 +59,7 @@ Or:
 java -jar build/libs/maven-search-0.0.1-SNAPSHOT.jar dep --name selenium-java
 ```
 
-![img.png](assets/example.png)
+<video src='assets/demo-maven-search.mp4' controls></video>
 
 <h2 id="colab">🤝 Collaborators</h2>
 
