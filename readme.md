@@ -59,7 +59,9 @@ Or:
 java -jar build/libs/maven-search-0.0.1-SNAPSHOT.jar dep --name selenium-java
 ```
 
-<video src='assets/demo-maven-search.mp4' controls></video>
+
+https://github.com/user-attachments/assets/57a85afe-5ed5-46cd-a08b-57e9c4fb17c8
+
 
 <h2 id="colab">🤝 Collaborators</h2>
 
